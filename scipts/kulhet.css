@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "shock";
+    src: url(../fonts/Shock\ Surgent.otf);
+
+}
+@font-face {
+
+    font-family: "old";
+    src: url(../fonts/MorePerfectDOSVGA.ttf);
+
+}
+
+body{
+
+    background-color: #000000;
+
+}
+
+p {
+
+    color: #00ff00;
+    font-family: old;
+    font-size: 25px;
+    white-space: pre;
+
+}
+
+h1{
+
+    color: #00ff00;
+    text-align: center;
+    font-family: old;
+    font-size: 45px;
+
+}
+
+h2{
+
+    color: #00ff00;
+    font-family: old;
+    font-size: 35px;
+    margin-left: 10px;
+
+    
+}
+
+label{
+    
+    color:#00ff00;
+}
+
+li{
+
+    color:#00ff00;
+    list-style: none;
+
+}
+
+img{
+
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+.bilde-med-omkrets{
+
+    border: 5px solid #00ff00;
+
+}
+
+.bilde-med-zoom:hover{
+
+    height: 300px;
+
+}
+
+.bilde-med-klikk:hover{
+
+    border: 3px solid #3030f0;
+
+}
+
+.bilde-med-zoom-og-klikk:hover{
+
+    height: 300px;
+    border: 3px solid #3030f0;
+
+}
+
+.bla-div{
+ 
+    border: 5px outset #00ff00;
+    background-color: #000040;
+
+}
+
+.rod-div{
+
+    border: 5px outset #00ff00;
+    background-color: #400000;
+
+}
+
+.gul-div{
+
+    border: 5px outset #00ff00;
+    background-color: #404000;
+
+}
